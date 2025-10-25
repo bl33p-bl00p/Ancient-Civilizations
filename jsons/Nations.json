@@ -63,8 +63,8 @@
 		"afterPeace": "Praise the Lord as he gives peace!",
 		"tradeRequest": "I present you this trade offer.",
 
-		"outerColor": [	255, 255, 204],
-		"innerColor": [	51, 153, 255],
+		"outerColor": [	255, 255, 206],
+		"innerColor": [	49, 146, 243],
 		"uniqueName": "Promised Land",
 		"uniques": ["[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
@@ -172,7 +172,7 @@
 		"outerColor": [	128, 9, 46],
 		"innerColor": [	204, 170, 118],
 		"uniqueName": "Sacred Mountains", 
-		"uniques": ["Double quantity of [Horses] produced","[Mounted] units gain the [Ignore terrain cost] promotion","[+1 Food, +1 Culture, +1 Production] from every [Mountain]"],
+		"uniques": ["[+100]% [Horses] resource production","[Mounted] units gain the [Ignore terrain cost] promotion","[+1 Food, +1 Culture, +1 Production] from every [Mountain]"],
 		"cities": ["Yerevan","Tigranakert","Artashat","Yervandashat","Armavir","Gyumri","Vanadzor","Abovyan","Kapan","Ararat","Gavar",
 		"Hrazdan","Ijevan","Goris","Ashtarak","Masis"]
 	}
@@ -203,8 +203,8 @@
 		"afterPeace": "We shall now pray for the better, I mean more profitable, days!",
 		"tradeRequest": "I bring you an excellent offer!",
 
-		"outerColor": [	84, 215, 247],
-		"innerColor": [	255, 255, 255],
+		"outerColor": [63, 155, 177],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "Shackles of Gold",
 		"uniqueText": "Earns [Gold] for killing enemy land units", 
 		"uniques": ["Earn [75]% of killed [Land] unit's [Strength] as [Gold]"],
@@ -238,8 +238,8 @@
 		"afterPeace": "What such bloodhirsty beast might want?",
 		"tradeRequest": "What do you think?",
 
-		"outerColor": [	91, 176, 156],
-		"innerColor": [ 40, 94, 68],
+		"outerColor": [99, 179, 160],
+		"innerColor": [38, 90, 65],
 		"uniqueName": "Feathered Serpent",
 		"uniqueText": "May buy National Wonders with [Faith].",
 		"uniques": ["May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
@@ -309,7 +309,7 @@
 		"outerColor": [	31, 31, 31],
 		"innerColor": [	247, 198, 0],
 		"uniqueName": "Desert Paradise",
-		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+15]% Strength <within [1] tiles of a [Desert]>"],
+		"uniques": ["[+100]% [Incense] resource production","May convert Incense to Myrrh or Frankincense luxury resources","[+15]% Strength <within [1] tiles of a [Desert]>"],
 		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
 	},
 				{
